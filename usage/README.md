@@ -27,4 +27,9 @@ epPlugin.register({
     linkURL: '' button URL (default value: /home)
    });
  
+SCREENSHOTS
+------------
 
+![Screen Shots](https://raw.githubusercontent.com/varunsharmaa/error-page-pkg/master/package/Desktop-SS.png)
+
+![Screen Shots](https://raw.githubusercontent.com/varunsharmaa/error-page-pkg/master/package/Mobile-SS.png)

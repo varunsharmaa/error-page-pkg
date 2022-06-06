@@ -8,10 +8,12 @@ INSTALLATION
  * Run this command in your project  npm i page-error-pkg
  * To verify the package check usage folder read me file
 
+SCREENSHOTS
+------------
 
-[Screen Shots](Desktop-SS.png)
+![Screen Shots](https://raw.githubusercontent.com/varunsharmaa/error-page-pkg/master/package/Desktop-SS.png)
 
-[Screen Shots](Mobile-SS.png)
+![Screen Shots](https://raw.githubusercontent.com/varunsharmaa/error-page-pkg/master/package/Mobile-SS.png)
 
 
 
