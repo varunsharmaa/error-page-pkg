@@ -1,0 +1,23 @@
+{
+  "name": "page-error-pkg",
+  "version": "1.1.0",
+  "description": "This package is used to create a error page using javascript code.",
+  "main": "lib/index.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "files": [
+    "lib/**/**"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunsharmaa/error-page-pkg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varunsharmaa/error-page-pkg/issues"
+  },
+  "homepage": "https://github.com/varunsharmaa/error-page-pkg#readme"
+}
