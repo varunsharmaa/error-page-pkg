@@ -35,7 +35,9 @@ epPlugin.register({
 SCREENSHOTS
 ------------
 **Desktop View**
+<br />
 ![Screen Shots](https://raw.githubusercontent.com/varunsharmaa/error-page-pkg/master/package/Desktop-SS.png)
 
 **Mobile View**
+<br />
 ![Screen Shots](https://raw.githubusercontent.com/varunsharmaa/error-page-pkg/master/package/Mobile-SS.png)

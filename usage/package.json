@@ -9,7 +9,7 @@
     "start": "npx webpack serve"
   },
   "dependencies": {
-    "page-error-pkg": "^1.2.0"
+    "page-error-pkg": "^1.4.0"
   },
   "devDependencies": {
     "webpack": "^5.73.0",

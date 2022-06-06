@@ -1,6 +1,6 @@
 {
   "name": "page-error-pkg",
-  "version": "1.2.0",
+  "version": "1.4.0",
   "description": "This package is used to create a error page using javascript code.",
   "main": "lib/index.min.js",
   "scripts": {
@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/varunsharmaa/error-page-pkg/issues"
   },
-  "homepage": "https://github.com/varunsharmaa/error-page-pkg#readme"
+  "homepage": "https://github.com/varunsharmaa/error-page-pkg#readme",
+  "keywords": [
+    "error page",
+    "page not found",
+    "error page javascript/typescript npm package",
+    "npm package for error page"
+  ]
 }
