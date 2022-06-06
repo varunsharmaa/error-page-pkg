@@ -1,6 +1,6 @@
 {
   "name": "page-error-pkg",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "This package is used to create a error page using javascript code.",
   "main": "lib/index.min.js",
   "scripts": {

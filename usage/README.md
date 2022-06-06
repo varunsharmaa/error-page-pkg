@@ -1,4 +1,4 @@
-# error-page-pacpkgkage
+# page-error-package
 
 
 INSTALLATION
